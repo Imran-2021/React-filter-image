@@ -30,7 +30,7 @@ const FakeData=[
         "id":4,
         "image": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg",
         "name":"lorem",
-        "catagory":"hd",
+        "catagory":"dh",
         "price":12,
         "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
 
@@ -57,7 +57,7 @@ const FakeData=[
         "id":7,
         "image": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg",
         "name":"lorem",
-        "catagory":"hd",
+        "catagory":"dh",
         "price":12,
         "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
 
@@ -75,7 +75,7 @@ const FakeData=[
         "id":9,
         "image": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg",
         "name":"lorem",
-        "catagory":"hd",
+        "catagory":"dh",
         "price":12,
         "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
 
@@ -102,7 +102,7 @@ const FakeData=[
         "id":12,
         "image": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg",
         "name":"lorem",
-        "catagory":"hd",
+        "catagory":"dh",
         "price":12,
         "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
 
@@ -120,7 +120,25 @@ const FakeData=[
         "id":14,
         "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
         "name":"lorem",
-        "catagory":"hd",
+        "catagory":"dh",
+        "price":12,
+        "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
+
+    },
+    {
+        "id":15,
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "name":"lorem",
+        "catagory":"hddd",
+        "price":12,
+        "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
+
+    },
+    {
+        "id":16,
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "name":"lorem",
+        "catagory":"dh",
         "price":12,
         "description":"lorem ipsum dolor sit amet, consectetur adipiscing"
 
